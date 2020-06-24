@@ -1,0 +1,5 @@
+{
+  "extensions":[
+    { "name": "Startup", "typeName":"KostaAzureFunction.Startup, KostaAzureFunction, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"}
+  ]
+}
